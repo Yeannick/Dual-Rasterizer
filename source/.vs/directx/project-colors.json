@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "62ba78f9-cc88-465f-aedf-b7557b1d0f13": {
+      "ProjectGuid": "62ba78f9-cc88-465f-aedf-b7557b1d0f13",
+      "DisplayName": "directx",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
